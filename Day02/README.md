@@ -1,6 +1,4 @@
-Here's a **complete step-by-step guide** (with detailed notes) on **how to install VirtualBox and Kali Linux** on your system.
 
----
 
 # 🔧 Part 1: Installing VirtualBox
 
@@ -194,6 +192,3 @@ This improves screen resolution, clipboard sharing, and drag & drop.
 * Increase **Video Memory** (128 MB) in Display settings
 * Use **Bridged Adapter** if you need network access outside the VM
 
----
-
-Would you like this as a **PDF or Word document** for easy printing or sharing?
